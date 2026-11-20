@@ -1,0 +1,29 @@
+PASS inorden calculado por la interfaz
+PASS búsqueda real desde botón
+PASS fila sin recorte: entrada
+PASS fila sin recorte: acciones
+PASS tres casos de eliminación en interfaz
+PASS duplicado no cambia cantidad
+PASS carga inválida conserva árbol anterior
+PASS fila sin recorte: entrada
+PASS fila sin recorte: acciones
+PASS ruta mínima calculada en ventana
+PASS traza completa en ventana
+PASS fila sin recorte: entrada
+PASS fila sin recorte: aristas
+PASS fila sin recorte: calculo
+PASS matriz no dirigida simétrica
+PASS fila sin recorte: entrada
+PASS fila sin recorte: aristas
+PASS fila sin recorte: calculo
+PASS fila sin recorte: entrada
+PASS fila sin recorte: aristas
+PASS fila sin recorte: calculo
+PASS cambio de arista invalida resultados
+PASS arista de peso cero es válida
+PASS peso negativo rechazado
+PASS nuevo origen invalida resultados
+PASS reemplazo de red descarta resultado anterior
+PASS destino desconectado visible
+RESULTADO: 27 comprobaciones de interfaz aprobadas
+Las imágenes son renders directos de WinForms mediante DrawToBitmap, no capturas del escritorio.

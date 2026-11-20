@@ -1,0 +1,13 @@
+  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos están actualizados para la restauración.
+  NoLineales.Core -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u4-build\bin\NoLineales.Core\release\NoLineales.Core.dll
+  ABB.Forms -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u4-build\bin\ABB.Forms\release\ABB.Forms.dll
+  Grafos.Forms -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u4-build\bin\Grafos.Forms\release\Grafos.Forms.dll
+  Verificaciones -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u4-build\bin\Verificaciones\release\Verificaciones.dll
+  PruebasInterfaz -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\u4-build\bin\PruebasInterfaz\release\PruebasInterfaz.dll
+
+Compilación correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:02.66

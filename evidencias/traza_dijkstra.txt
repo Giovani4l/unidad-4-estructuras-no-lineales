@@ -1,0 +1,6 @@
+Paso 1; fijo A; d=[0,4,2,INF,INF,INF]; A->B: INF a 4; A->C: INF a 2
+Paso 2; fijo C; d=[0,3,2,10,12,INF]; C->B: 4 a 3; C->D: INF a 10; C->E: INF a 12
+Paso 3; fijo B; d=[0,3,2,8,12,INF]; B->D: 10 a 8
+Paso 4; fijo D; d=[0,3,2,8,10,14]; D->E: 12 a 10; D->F: INF a 14
+Paso 5; fijo E; d=[0,3,2,8,10,13]; E->F: 14 a 13
+Paso 6; fijo F; d=[0,3,2,8,10,13]; Sin mejoras

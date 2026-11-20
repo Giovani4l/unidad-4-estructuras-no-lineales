@@ -1,0 +1,1 @@
+RESULTADO: 10448 comprobaciones de algoritmos aprobadas
